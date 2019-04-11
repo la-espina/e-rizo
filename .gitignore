@@ -1,0 +1,8 @@
+#Ignore files
+.sass-cache
+.sass-cache/*.*
+cache
+cache/*.*
+*.sublime*
+node_modules
+config.php
