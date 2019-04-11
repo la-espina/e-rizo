@@ -1,7 +1,7 @@
 <?php
 /**
  * @package			E-rizo
- * @author			RogerTM
+ * @author			La Espina
  * @license			GPLv2
  * @since 			1.0
  */
