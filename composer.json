@@ -1,0 +1,22 @@
+{
+	"name": "la-espina/e-rizo",
+	"description": "El juego del Cartero E-rizo",
+	"keywords": ["php", "game"],
+	"homepage": "https://github.com/la-espina/e-rizo",
+	"license": "GPL-2.0-or-later",
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=7.0"
+	},
+	"authors": [{
+		"name": "RogerTM",
+		"email": "roger213tm@gmail.com",
+		"homepage": "https://themingisprose.com",
+		"role": "Developer"
+	}],
+	"support": {
+		"email": "roger213tm@gmail.com",
+		"issues": "https://github.com/la-espina/e-rizo/issues",
+		"source": "https://github.com/la-espina/e-rizo"
+	}
+}
