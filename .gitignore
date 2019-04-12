@@ -4,5 +4,4 @@
 cache
 cache/*.*
 *.sublime*
-node_modules
 config.php
