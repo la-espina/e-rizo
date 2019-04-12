@@ -4,7 +4,7 @@
 	"keywords": ["php", "game"],
 	"homepage": "https://github.com/la-espina/e-rizo",
 	"license": "GPL-2.0-or-later",
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"require": {
 		"php": ">=7.0"
 	},
